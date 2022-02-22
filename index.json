@@ -1,79 +1,92 @@
-[
-	{
-		"author": "PaperClawXX",
-		"title": "SOLUSI YG MAU BISNIS CLOTHINGAN GAK PAKE RIBET !! Dari Produksi - Kirim Udah di Urus | PAEKO.ID",
-		"platform": "YouTube",
-		"designSoftware": null,
-		"tags": [
-			"Registrasi",
-			"Pemesanan",
-			"Buat Brand",
-			"Buat Produk",
-			"Review"
-		],
-		"url": "https://youtu.be/ZCF9GQS3_2w",
-		"time": "12:56",
-		"thumbnail": "https://i.ytimg.com/vi/ZCF9GQS3_2w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXxE111xg9BHJYydLQfxQuI4GRyQ"
-	},
-	{
-		"author": "Sastra Ananta",
-		"title": "PELUANG BISNIS ONLINE DI PAEKO.ID , JUALAN KAOS GAPAKE RIBET, MODAL MINIMAL UNTUNG MAKSIMAL",
-		"platform": "YouTube",
-		"tags": [
-			"Registrasi",
-			"Pemesanan",
-			"Buat Brand",
-			"Buat Produk",
-			"Review",
-			"Penarikan Saldo"
-		],
-		"designSoftware": null,
-		"url": "https://youtu.be/N7TxZQdswBE",
-		"time": "23:26",
-		"thumbnail": "https://i.ytimg.com/vi/N7TxZQdswBE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvqpmxsyqMBMqk76QNdnnggeO1aQ"
-	},
-	{
-		"author": "NTC Graphic",
-		"title": "Jual Kaos Desain Sendiri? GAMPANG!! | GIVE AWAY ALERT!!",
-		"platform": "YouTube",
-		"tags": [
-			"Registrasi",
-			"Pemesanan",
-			"Buat Brand",
-			"Buat Produk",
-			"Review",
-			"Adobe Illustrator"
-		],
-		"designSoftware": "Adobe Illustrator",
-		"url": "https://youtu.be/add5RE6hpng",
-		"time": "20:19",
-		"thumbnail": "https://i.ytimg.com/vi/add5RE6hpng/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6-puiwRQaajplUSa0MZja3d8gWA"
-	},
-	{
-		"author": "PaperClawXX",
-		"title": "REVIEW HASIL PRODUKSI DARI PAEKO.ID, Mending Pake yg Mana ??",
-		"platform": "YouTube",
-		"designSoftware": null,
-		"tags": [
-			"Review"
-		],
-		"url": "https://youtu.be/WggkStP3sWQ",
-		"time": "15:47",
-		"thumbnail": "https://i.ytimg.com/vi/WggkStP3sWQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKCIog87YSQLjeVWiC3kEoZKMzUA"
-	},
-	{
-		"author": "azizpict",
-		"title": "Bikin Desain Streetwear",
-		"platform": "TikTok",
-		"tags": [
-			"Pemesanan",
-			"Buat Produk",
-			"Review",
-			"Pixellab"
-		],
-		"designSoftware": "Pixellab",
-		"url": "https://www.tiktok.com/@azizpict/video/7047809093922327834?is_from_webapp=1&sender_device=pc&web_id7022456260848289281",
-		"time": "01:29",
-		"thumbnail": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/6dbd656ab1b549388eb2ccff173a5e49?x-expires=1645524000&x-signature=e%2BIxUgMGJnSQsJPgrDPxlnhUbCE%3D"
-	}
-]
+{
+	"tags": [
+		"Registrasi",
+		"Pemesanan",
+		"Penarikan Saldo",
+		"Buat Brand",
+		"Buat Produk",
+		"Review",
+		"Pixellab",
+		"Adobe Illustrator",
+		"Adobe Photoshop"
+	],
+	"data": [
+		{
+			"author": "PaperClawXX",
+			"title": "SOLUSI YG MAU BISNIS CLOTHINGAN GAK PAKE RIBET !! Dari Produksi - Kirim Udah di Urus | PAEKO.ID",
+			"platform": "YouTube",
+			"designSoftware": null,
+			"tags": [
+				"Registrasi",
+				"Pemesanan",
+				"Buat Brand",
+				"Buat Produk",
+				"Review"
+			],
+			"url": "https://youtu.be/ZCF9GQS3_2w",
+			"time": "12:56",
+			"thumbnail": "https://i.ytimg.com/vi/ZCF9GQS3_2w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXxE111xg9BHJYydLQfxQuI4GRyQ"
+		},
+		{
+			"author": "Sastra Ananta",
+			"title": "PELUANG BISNIS ONLINE DI PAEKO.ID , JUALAN KAOS GAPAKE RIBET, MODAL MINIMAL UNTUNG MAKSIMAL",
+			"platform": "YouTube",
+			"tags": [
+				"Registrasi",
+				"Pemesanan",
+				"Buat Brand",
+				"Buat Produk",
+				"Review",
+				"Penarikan Saldo"
+			],
+			"designSoftware": null,
+			"url": "https://youtu.be/N7TxZQdswBE",
+			"time": "23:26",
+			"thumbnail": "https://i.ytimg.com/vi/N7TxZQdswBE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvqpmxsyqMBMqk76QNdnnggeO1aQ"
+		},
+		{
+			"author": "NTC Graphic",
+			"title": "Jual Kaos Desain Sendiri? GAMPANG!! | GIVE AWAY ALERT!!",
+			"platform": "YouTube",
+			"tags": [
+				"Registrasi",
+				"Pemesanan",
+				"Buat Brand",
+				"Buat Produk",
+				"Review",
+				"Adobe Illustrator"
+			],
+			"designSoftware": "Adobe Illustrator",
+			"url": "https://youtu.be/add5RE6hpng",
+			"time": "20:19",
+			"thumbnail": "https://i.ytimg.com/vi/add5RE6hpng/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6-puiwRQaajplUSa0MZja3d8gWA"
+		},
+		{
+			"author": "PaperClawXX",
+			"title": "REVIEW HASIL PRODUKSI DARI PAEKO.ID, Mending Pake yg Mana ??",
+			"platform": "YouTube",
+			"designSoftware": null,
+			"tags": [
+				"Review"
+			],
+			"url": "https://youtu.be/WggkStP3sWQ",
+			"time": "15:47",
+			"thumbnail": "https://i.ytimg.com/vi/WggkStP3sWQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKCIog87YSQLjeVWiC3kEoZKMzUA"
+		},
+		{
+			"author": "azizpict",
+			"title": "Bikin Desain Streetwear",
+			"platform": "TikTok",
+			"tags": [
+				"Pemesanan",
+				"Buat Produk",
+				"Review",
+				"Pixellab"
+			],
+			"designSoftware": "Pixellab",
+			"url": "https://www.tiktok.com/@azizpict/video/7047809093922327834?is_from_webapp=1&sender_device=pc&web_id7022456260848289281",
+			"time": "01:29",
+			"thumbnail": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/6dbd656ab1b549388eb2ccff173a5e49?x-expires=1645524000&x-signature=e%2BIxUgMGJnSQsJPgrDPxlnhUbCE%3D"
+		}
+	]
+}
